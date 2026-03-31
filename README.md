@@ -105,3 +105,4 @@ Dependencias principales:
 - PyTorch (Hugging Face Transformers)
 - scikit-learn
 - SentenceTransformers
+
